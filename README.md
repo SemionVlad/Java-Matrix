@@ -1,5 +1,14 @@
 # Matrix Image Processing System
 ## Black and White Image Manipulation
+<!-- Tech & meta badges (static; no CI required) -->
+![Language: Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![Domain: Image Processing](https://img.shields.io/badge/Domain-Image%20Processing-0aa)
+![Mode: Grayscale 0–255](https://img.shields.io/badge/Mode-Grayscale%200%E2%80%93255-4c1)
+![Ops: Flip/Rotate](https://img.shields.io/badge/Ops-Flip%20%2F%20Rotate-795548)
+![Matrix: int[][]](https://img.shields.io/badge/Matrix-int%5B%5D%5B%5D-999)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+> Java matrix-based grayscale (0–255) image ops: vertical/horizontal flip and 90° rotations; deep copies, int[][] storage, O(n*m) per transform.
+
 
 **Author:** Shimon Esterkin (207972258)  
 **Version:** Maman14.2023b
